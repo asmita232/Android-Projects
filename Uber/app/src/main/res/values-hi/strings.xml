@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">उबेर</string>
+    <string name="phone_no">फ़ोन नंबर</string>
+    <string name="enter_password">पास वर्ड दर्ज करें</string>
+    <string name="remember_me">मुझे याद रखना</string>
+    <string name="don_t_have_account">खाता नहीं है?</string>
+    <string name="signup">खाता बनाएं</string>
+    <string name="login">लॉग इन करें</string>
+</resources>
